@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Bhanu Prakash 👋
+
+I'm a front end developer passionate about building web apps and learning new tech.
+
+## 🛠️ Skills
+
+- **Languages:** HTML5,CSS3,JavaScript.
+- **Frameworks:** Bootstrap.
+- **Library:** Reactjs.
+- **Tools:** Git, VS Code, LightHouse, BrowserStack.
+- 
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-reddy-amasa-8138a5291/)
+- [Gmail me](mailto:bhanuprakashreddy6302@gmail.com)
+  
 
 <!--
 **Bhanu6302/Bhanu6302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
