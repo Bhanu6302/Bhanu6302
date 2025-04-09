@@ -7,7 +7,7 @@ I'm a front end developer passionate about building web apps and learning new te
 - **Languages:** HTML5,CSS3,JavaScript.
 - **Frameworks:** Bootstrap.
 - **Library:** Reactjs.
-- **Tools:** Git, VS Code, LightHouse, BrowserStack.
+- **Tools:** GitHub, VS Code, LightHouse, BrowserStack.
   
 ## 📫 Connect with me
 
