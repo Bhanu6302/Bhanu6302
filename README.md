@@ -8,8 +8,7 @@ I'm a front end developer passionate about building web apps and learning new te
 - **Frameworks:** Bootstrap.
 - **Library:** Reactjs.
 - **Tools:** Git, VS Code, LightHouse, BrowserStack.
-- 
-
+  
 ## 📫 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-reddy-amasa-8138a5291/)
