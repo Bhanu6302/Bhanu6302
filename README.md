@@ -1,6 +1,6 @@
 # Hi, I'm Bhanu Prakash 👋
 
-I'm a front end developer passionate about building web apps and learning new tech.
+Recent fresher graduate from Mechanical Engineering skilled in front end development & passionate about building web apps and learning new tech.
 
 ## 🛠️ Skills
 
